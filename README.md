@@ -1,1 +1,2 @@
 # homework1
+## For "Homework 1", I tried to make the code cleaner and more functional for visually impaired people who may be using screen readers. I replaced the divs with semantic terminology and added alts to the images. From there I combined and cleaned up some of the classes in CSS.
